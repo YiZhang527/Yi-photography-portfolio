@@ -1,4 +1,4 @@
-# Yi-s-photography-portfolio
+# Yi-photography-portfolio
 
 This is my personal photography portfolio website showcasing a collection of my selected photographic works.
 
