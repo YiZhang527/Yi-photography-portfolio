@@ -4,7 +4,7 @@ This is my personal photography portfolio website showcasing a collection of my 
 
 ## Website Link
 
-Visit the website: [Yi's Photography Portfolio](https://yizhang527.github.io/Yi-s-photography-portfolio)
+Visit the website: [Yi's Photography Portfolio](https://yizhang527.github.io/Yi-photography-portfolio)
 
 ## About the Portfolio
 
