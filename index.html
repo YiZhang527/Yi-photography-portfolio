@@ -46,7 +46,7 @@
         
         .gallery {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
             gap: 1.5rem;
         }
         
@@ -136,5 +136,15 @@
     <footer>
         <p>&copy; Yi's Photography Portfolio. All rights reserved.</p>
     </footer>
+
+    <script>
+        document.querySelectorAll('.gallery-item img').forEach(img => {
+            img.addEventListener('click', function() {
+                window.open(this.src, '_blank');
+            });
+            img.style.cursor = 'pointer';
+        });
+    </script>
+
     </body>
     </html>
